@@ -1,4 +1,4 @@
-![image alt]()
+![image alt](https://github.com/Valar2309/Hardware101/blob/4a367d7b922de6004cd6e3162bee0ae98716af14/Task%201/Day%201/Screenshot%202025-02-23%20184501.png)
 ![image alt]()
 ![image alt]()
 ![image alt]()
