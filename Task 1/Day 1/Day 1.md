@@ -1,6 +1,6 @@
 ![image alt](https://github.com/Valar2309/Hardware101/blob/4a367d7b922de6004cd6e3162bee0ae98716af14/Task%201/Day%201/Screenshot%202025-02-23%20184501.png)
 ![image alt](https://github.com/Valar2309/Hardware101/blob/17671c2a7f8326338dd2321b6522e43b2ad6189a/Task%201/Day%201/Screenshot%202025-02-23%20185012.png)
-![image alt]()
+![image alt](https://github.com/Valar2309/Hardware101/blob/d1ecd0d5dde14854da7237c35811647d4167e221/Task%201/Day%201/Screenshot%202025-02-23%20185101.png)
 ![image alt]()
 ![image alt]()
 ![image alt]()
